@@ -130,7 +130,7 @@ class PayinPolicy
     }
 
     /**
-     * Determine whether the user can match the model with the payment request./Users/riemizuno/Documents/london_TP/takopay-payin/app/Policies/AdminUserPolicy.php
+     * Determine whether the user can match the model with the payment request.
      *
      * @param  \App\Models\AdminUser  $user
      *
